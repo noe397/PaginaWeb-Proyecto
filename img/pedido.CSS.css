@@ -1,0 +1,20 @@
+pedido.CSS
+
+html{
+    box-sizing: border-box;
+    font-size: 60.5%;
+}
+
+body{
+    background-color:bisque;
+}
+
+.banner{
+    position: relative;
+    widows: 100%;
+    height: calc(108vh - 50px);
+    background-image: url(../img/de.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

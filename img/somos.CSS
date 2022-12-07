@@ -1,0 +1,22 @@
+html{
+    box-sizing: border-box;
+    font-size: 60.5%;
+}
+
+body{
+    background-color:bisque;
+}
+
+.banner{
+    position: relative;
+    widows: 100%;
+    height: calc(108vh - 50px);
+    background-image: url(../img/gi.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contenido p{
+    margin: 20px;
+    font-size: 18px;
+}
